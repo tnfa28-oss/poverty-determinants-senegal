@@ -24,9 +24,10 @@ de la Banque Mondiale : l
 - Gini = 0,334
 - Effets marginaux (en points de pourcentage) : électricité −24,3 ; compte bancaire −7,0 ;
   éducation −5,7 par niveau ; agriculture +8,1 ; milieu rural +4,3
+  -![Courbe de Lorenz](Courbe_Lorenz.jpeg)
 
 ## Contenu
-- `code/` : fichier `.do` pour reproduire les résultats
+- `dofile_projet2026.do` : fichier `.do` pour reproduire les résultats
 - `figures/` : graphiques principaux
 
 ## Reproduire
